@@ -1,0 +1,2 @@
+### Thanks to Internet Chess Club (chessclub.com)
+Funding for the xojo_ICC_connection library and uci_icc_player_bot program where provided in part by the Internet Chess Club (chessclub.com).  Thank you for supporting this open source venture.
